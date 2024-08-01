@@ -9,3 +9,4 @@
 - [L7- Numbers](<L7- Numbers.ipynb>)
 - [L8 - Castings](<L8-Casting.ipynb>)
 - [L9- Strings](<L9- Strings.ipynb>)
+- [L10 -Booleans](L10-Boolean.ipynb)
